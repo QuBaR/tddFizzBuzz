@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rober\\Min enhet\\Projekt\\TUC\\Test, verifiering och certifiering\\Test_Tommy\\Lektion 2\\TDDFizzBuzz\\TDDFizzBuzzTests\\TDDFizzBuzzTests.csproj": {}
+    "C:\\Users\\rober\\source\\test verifiering certifiering\\TDDFizzBuzz\\TDDFizzBuzzTests\\TDDFizzBuzzTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rober\\Min enhet\\Projekt\\TUC\\Test, verifiering och certifiering\\Test_Tommy\\Lektion 2\\TDDFizzBuzz\\TDDFizzBuzzTests\\TDDFizzBuzzTests.csproj": {
+    "C:\\Users\\rober\\source\\test verifiering certifiering\\TDDFizzBuzz\\TDDFizzBuzzTests\\TDDFizzBuzzTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rober\\Min enhet\\Projekt\\TUC\\Test, verifiering och certifiering\\Test_Tommy\\Lektion 2\\TDDFizzBuzz\\TDDFizzBuzzTests\\TDDFizzBuzzTests.csproj",
+        "projectUniqueName": "C:\\Users\\rober\\source\\test verifiering certifiering\\TDDFizzBuzz\\TDDFizzBuzzTests\\TDDFizzBuzzTests.csproj",
         "projectName": "TDDFizzBuzzTests",
-        "projectPath": "C:\\Users\\rober\\Min enhet\\Projekt\\TUC\\Test, verifiering och certifiering\\Test_Tommy\\Lektion 2\\TDDFizzBuzz\\TDDFizzBuzzTests\\TDDFizzBuzzTests.csproj",
+        "projectPath": "C:\\Users\\rober\\source\\test verifiering certifiering\\TDDFizzBuzz\\TDDFizzBuzzTests\\TDDFizzBuzzTests.csproj",
         "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rober\\Min enhet\\Projekt\\TUC\\Test, verifiering och certifiering\\Test_Tommy\\Lektion 2\\TDDFizzBuzz\\TDDFizzBuzzTests\\obj\\",
+        "outputPath": "C:\\Users\\rober\\source\\test verifiering certifiering\\TDDFizzBuzz\\TDDFizzBuzzTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp2.1": {
             "targetAlias": "netcoreapp2.1",
             "projectReferences": {
-              "C:\\Users\\rober\\Min enhet\\Projekt\\TUC\\Test, verifiering och certifiering\\Test_Tommy\\Lektion 2\\TDDFizzBuzz\\TDDFizzBuzz\\TDDFizzBuzz.csproj": {
-                "projectPath": "C:\\Users\\rober\\Min enhet\\Projekt\\TUC\\Test, verifiering och certifiering\\Test_Tommy\\Lektion 2\\TDDFizzBuzz\\TDDFizzBuzz\\TDDFizzBuzz.csproj"
+              "C:\\Users\\rober\\source\\test verifiering certifiering\\TDDFizzBuzz\\TDDFizzBuzz\\TDDFizzBuzz.csproj": {
+                "projectPath": "C:\\Users\\rober\\source\\test verifiering certifiering\\TDDFizzBuzz\\TDDFizzBuzz\\TDDFizzBuzz.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\Users\\rober\\Min enhet\\Projekt\\TUC\\Test, verifiering och certifiering\\Test_Tommy\\Lektion 2\\TDDFizzBuzz\\TDDFizzBuzz\\TDDFizzBuzz.csproj": {
+    "C:\\Users\\rober\\source\\test verifiering certifiering\\TDDFizzBuzz\\TDDFizzBuzz\\TDDFizzBuzz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rober\\Min enhet\\Projekt\\TUC\\Test, verifiering och certifiering\\Test_Tommy\\Lektion 2\\TDDFizzBuzz\\TDDFizzBuzz\\TDDFizzBuzz.csproj",
+        "projectUniqueName": "C:\\Users\\rober\\source\\test verifiering certifiering\\TDDFizzBuzz\\TDDFizzBuzz\\TDDFizzBuzz.csproj",
         "projectName": "TDDFizzBuzz",
-        "projectPath": "C:\\Users\\rober\\Min enhet\\Projekt\\TUC\\Test, verifiering och certifiering\\Test_Tommy\\Lektion 2\\TDDFizzBuzz\\TDDFizzBuzz\\TDDFizzBuzz.csproj",
+        "projectPath": "C:\\Users\\rober\\source\\test verifiering certifiering\\TDDFizzBuzz\\TDDFizzBuzz\\TDDFizzBuzz.csproj",
         "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rober\\Min enhet\\Projekt\\TUC\\Test, verifiering och certifiering\\Test_Tommy\\Lektion 2\\TDDFizzBuzz\\TDDFizzBuzz\\obj\\",
+        "outputPath": "C:\\Users\\rober\\source\\test verifiering certifiering\\TDDFizzBuzz\\TDDFizzBuzz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config",

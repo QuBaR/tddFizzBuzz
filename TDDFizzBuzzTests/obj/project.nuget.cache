@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AGnPtkg/k/IgFJitFtY6MQqi1qYdzCUxWNuzPEr84rswRvKG7sJIeLmkgwOQ6CH1gajV/bh/gdYwOnZkyBL23g==",
+  "dgSpecHash": "auDqLkcrNkby8Jgu7hF+Uy1b3buXco5TJ0C9KB6yDKLycHCKWM5UGKsaBFXXVRsXT1qvRXwSbHGW8W/n06Es0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rober\\Min enhet\\Projekt\\TUC\\Test, verifiering och certifiering\\Test_Tommy\\Lektion 2\\TDDFizzBuzz\\TDDFizzBuzzTests\\TDDFizzBuzzTests.csproj",
+  "projectFilePath": "C:\\Users\\rober\\source\\test verifiering certifiering\\TDDFizzBuzz\\TDDFizzBuzzTests\\TDDFizzBuzzTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rober\\.nuget\\packages\\microsoft.codecoverage\\15.8.0\\microsoft.codecoverage.15.8.0.nupkg.sha512",
     "C:\\Users\\rober\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

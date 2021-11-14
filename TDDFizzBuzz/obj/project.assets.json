@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rober\\Min enhet\\Projekt\\TUC\\Test, verifiering och certifiering\\Test_Tommy\\Lektion 2\\TDDFizzBuzz\\TDDFizzBuzz\\TDDFizzBuzz.csproj",
+      "projectUniqueName": "C:\\Users\\rober\\source\\test verifiering certifiering\\TDDFizzBuzz\\TDDFizzBuzz\\TDDFizzBuzz.csproj",
       "projectName": "TDDFizzBuzz",
-      "projectPath": "C:\\Users\\rober\\Min enhet\\Projekt\\TUC\\Test, verifiering och certifiering\\Test_Tommy\\Lektion 2\\TDDFizzBuzz\\TDDFizzBuzz\\TDDFizzBuzz.csproj",
+      "projectPath": "C:\\Users\\rober\\source\\test verifiering certifiering\\TDDFizzBuzz\\TDDFizzBuzz\\TDDFizzBuzz.csproj",
       "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rober\\Min enhet\\Projekt\\TUC\\Test, verifiering och certifiering\\Test_Tommy\\Lektion 2\\TDDFizzBuzz\\TDDFizzBuzz\\obj\\",
+      "outputPath": "C:\\Users\\rober\\source\\test verifiering certifiering\\TDDFizzBuzz\\TDDFizzBuzz\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config",
