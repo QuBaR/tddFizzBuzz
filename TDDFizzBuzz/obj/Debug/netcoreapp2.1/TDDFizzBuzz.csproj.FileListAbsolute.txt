@@ -1,0 +1,23 @@
+C:\Users\Tommy Dufmats\OneDrive\Skrivbord\Systemutvecklare .Net\Test, Verifiering och Cert\Lektion 2\TDDFizzBuzz\TDDFizzBuzz\bin\Debug\netcoreapp2.1\TDDFizzBuzz.deps.json
+C:\Users\Tommy Dufmats\OneDrive\Skrivbord\Systemutvecklare .Net\Test, Verifiering och Cert\Lektion 2\TDDFizzBuzz\TDDFizzBuzz\bin\Debug\netcoreapp2.1\TDDFizzBuzz.runtimeconfig.json
+C:\Users\Tommy Dufmats\OneDrive\Skrivbord\Systemutvecklare .Net\Test, Verifiering och Cert\Lektion 2\TDDFizzBuzz\TDDFizzBuzz\bin\Debug\netcoreapp2.1\TDDFizzBuzz.runtimeconfig.dev.json
+C:\Users\Tommy Dufmats\OneDrive\Skrivbord\Systemutvecklare .Net\Test, Verifiering och Cert\Lektion 2\TDDFizzBuzz\TDDFizzBuzz\bin\Debug\netcoreapp2.1\TDDFizzBuzz.dll
+C:\Users\Tommy Dufmats\OneDrive\Skrivbord\Systemutvecklare .Net\Test, Verifiering och Cert\Lektion 2\TDDFizzBuzz\TDDFizzBuzz\bin\Debug\netcoreapp2.1\TDDFizzBuzz.pdb
+C:\Users\Tommy Dufmats\OneDrive\Skrivbord\Systemutvecklare .Net\Test, Verifiering och Cert\Lektion 2\TDDFizzBuzz\TDDFizzBuzz\obj\Debug\netcoreapp2.1\TDDFizzBuzz.csprojAssemblyReference.cache
+C:\Users\Tommy Dufmats\OneDrive\Skrivbord\Systemutvecklare .Net\Test, Verifiering och Cert\Lektion 2\TDDFizzBuzz\TDDFizzBuzz\obj\Debug\netcoreapp2.1\TDDFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Tommy Dufmats\OneDrive\Skrivbord\Systemutvecklare .Net\Test, Verifiering och Cert\Lektion 2\TDDFizzBuzz\TDDFizzBuzz\obj\Debug\netcoreapp2.1\TDDFizzBuzz.AssemblyInfoInputs.cache
+C:\Users\Tommy Dufmats\OneDrive\Skrivbord\Systemutvecklare .Net\Test, Verifiering och Cert\Lektion 2\TDDFizzBuzz\TDDFizzBuzz\obj\Debug\netcoreapp2.1\TDDFizzBuzz.AssemblyInfo.cs
+C:\Users\Tommy Dufmats\OneDrive\Skrivbord\Systemutvecklare .Net\Test, Verifiering och Cert\Lektion 2\TDDFizzBuzz\TDDFizzBuzz\obj\Debug\netcoreapp2.1\TDDFizzBuzz.dll
+C:\Users\Tommy Dufmats\OneDrive\Skrivbord\Systemutvecklare .Net\Test, Verifiering och Cert\Lektion 2\TDDFizzBuzz\TDDFizzBuzz\obj\Debug\netcoreapp2.1\TDDFizzBuzz.pdb
+C:\Users\rober\Min enhet\Projekt\TUC\Test, verifiering och certifiering\Test_Tommy\Lektion 2\TDDFizzBuzz\TDDFizzBuzz\bin\Debug\netcoreapp2.1\TDDFizzBuzz.deps.json
+C:\Users\rober\Min enhet\Projekt\TUC\Test, verifiering och certifiering\Test_Tommy\Lektion 2\TDDFizzBuzz\TDDFizzBuzz\bin\Debug\netcoreapp2.1\TDDFizzBuzz.runtimeconfig.json
+C:\Users\rober\Min enhet\Projekt\TUC\Test, verifiering och certifiering\Test_Tommy\Lektion 2\TDDFizzBuzz\TDDFizzBuzz\bin\Debug\netcoreapp2.1\TDDFizzBuzz.runtimeconfig.dev.json
+C:\Users\rober\Min enhet\Projekt\TUC\Test, verifiering och certifiering\Test_Tommy\Lektion 2\TDDFizzBuzz\TDDFizzBuzz\bin\Debug\netcoreapp2.1\TDDFizzBuzz.dll
+C:\Users\rober\Min enhet\Projekt\TUC\Test, verifiering och certifiering\Test_Tommy\Lektion 2\TDDFizzBuzz\TDDFizzBuzz\bin\Debug\netcoreapp2.1\TDDFizzBuzz.pdb
+C:\Users\rober\Min enhet\Projekt\TUC\Test, verifiering och certifiering\Test_Tommy\Lektion 2\TDDFizzBuzz\TDDFizzBuzz\obj\Debug\netcoreapp2.1\TDDFizzBuzz.csproj.AssemblyReference.cache
+C:\Users\rober\Min enhet\Projekt\TUC\Test, verifiering och certifiering\Test_Tommy\Lektion 2\TDDFizzBuzz\TDDFizzBuzz\obj\Debug\netcoreapp2.1\TDDFizzBuzz.AssemblyInfoInputs.cache
+C:\Users\rober\Min enhet\Projekt\TUC\Test, verifiering och certifiering\Test_Tommy\Lektion 2\TDDFizzBuzz\TDDFizzBuzz\obj\Debug\netcoreapp2.1\TDDFizzBuzz.AssemblyInfo.cs
+C:\Users\rober\Min enhet\Projekt\TUC\Test, verifiering och certifiering\Test_Tommy\Lektion 2\TDDFizzBuzz\TDDFizzBuzz\obj\Debug\netcoreapp2.1\TDDFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\rober\Min enhet\Projekt\TUC\Test, verifiering och certifiering\Test_Tommy\Lektion 2\TDDFizzBuzz\TDDFizzBuzz\obj\Debug\netcoreapp2.1\TDDFizzBuzz.dll
+C:\Users\rober\Min enhet\Projekt\TUC\Test, verifiering och certifiering\Test_Tommy\Lektion 2\TDDFizzBuzz\TDDFizzBuzz\obj\Debug\netcoreapp2.1\TDDFizzBuzz.pdb
+C:\Users\rober\Min enhet\Projekt\TUC\Test, verifiering och certifiering\Test_Tommy\Lektion 2\TDDFizzBuzz\TDDFizzBuzz\obj\Debug\netcoreapp2.1\TDDFizzBuzz.genruntimeconfig.cache
